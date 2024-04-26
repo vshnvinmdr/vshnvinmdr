@@ -1,1 +1,21 @@
+Exercise-1
+In the Athlete class given below,
+a. make all the attributes private and
+b. add the necessary accessor and mutator methods
+Represent Maria, the runner and make her run.
+
 https://ide.geeksforgeeks.org/online-python3-compiler/04db1006-cce7-471b-a489-535fb69e0f4a
+
+Exercise-2
+A university wants to automate their admission process. Students are admitted based on marks scored in a qualifying exam.
+A student is identified by student id, age and marks in qualifying exam. Data are valid, if: 
+ a. Age is greater than 20
+b. Marks is between 0 and 100 (both inclusive)
+A student qualifies for admission, if
+a. Age and marks are valid and
+b. Marks is 65 or more
+Write a python program to represent the students seeking admission in the university.
+
+https://ide.geeksforgeeks.org/online-python3-compiler/cecf944d-303f-4a30-942c-da4dcc839398
+
+
